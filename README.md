@@ -23,3 +23,14 @@ To deploy this project run
 ## 🛠 Skills
 Javascript, HTML, CSS...
 
+## Screenshots
+- Sliding image for offers (banners)
+![App Screenshot](https://github.com/aakash240402/Tour-Guide-HTML/blob/main/ss/Screenshot%20(61).png?raw=true)
+- Automatic sliding images
+![App Screenshot](https://github.com/aakash240402/Tour-Guide-HTML/blob/main/ss/Screenshot%20(62).png?raw=true)
+- Newsletter feature
+![App Screenshot](https://github.com/aakash240402/Tour-Guide-HTML/blob/main/ss/Screenshot%20(63).png?raw=true)
+- Chatbot
+![App Screenshot](https://github.com/aakash240402/Tour-Guide-HTML/blob/main/ss/Screenshot%20(65).png?raw=true)
+- Chatbot Backend
+![App Screenshot](https://github.com/aakash240402/Tour-Guide-HTML/blob/main/ss/Screenshot%20(64).png?raw=true)
